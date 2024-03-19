@@ -8,6 +8,23 @@
 
 🌟 If you're seeking a developer who blends technical expertise with a unique creative edge, let's connect! I'm on a mission to help others through technology, eager to contribute meaningfully and push boundaries in the tech industry.
 
+---
+[Portfolio](https://rafafportfolio.vercel.app)
+
+[LinkedIn](https://www.linkedin.com/in/rafaelfelic)<br>
+
+
+Some of my projects:<br>
+https://github.com/RafaelFelic/pokemonGame
+
+https://github.com/RafaelFelic/planner
+
+https://github.com/RafaelFelic/jsaltylens
+
+https://github.com/RafaelFelic/Portfolio
+
+https://github.com/RafaelFelic/tictactoe
+
 <!---
 RafaelFelic/RafaelFelic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
