@@ -9,11 +9,8 @@
 🌟 If you're seeking a developer who blends technical expertise with a unique creative edge, let's connect! I'm on a mission to help others through technology, eager to contribute meaningfully and push boundaries in the tech industry.
 
 ---
-[Portfolio](https://rafafportfolio.vercel.app)
-
-[LinkedIn](https://www.linkedin.com/in/rafaelfelic)<br>
-
-
+[Portfolio](https://rafafportfolio.vercel.app) / [LinkedIn](https://www.linkedin.com/in/rafaelfelic)<br>
+---
 Some of my projects:<br>
 https://github.com/RafaelFelic/pokemonGame
 
