@@ -18,7 +18,7 @@ https://github.com/RafaelFelic/planner
 
 https://github.com/RafaelFelic/jsaltylens
 
-https://github.com/RafaelFelic/Portfolio
+https://github.com/RafaelFelic/portfolio
 
 https://github.com/RafaelFelic/tictactoe
 
