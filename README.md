@@ -31,11 +31,11 @@ line-height: 3rem;
 [![Portfolio](https://img.shields.io/badge/Portfolio-darkgreen?style=for-the-badge)](https://rafafportfolio.vercel.app)
 
 Some of my projects:<br>
-https://github.com/RafaelFelic/pokemonGame
+https://github.com/RafaelFelic/jsaltylens
 
 https://github.com/RafaelFelic/planner
 
-https://github.com/RafaelFelic/jsaltylens
+https://github.com/RafaelFelic/pokemonGame
 
 https://github.com/RafaelFelic/portfolio
 
