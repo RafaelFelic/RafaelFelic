@@ -2,24 +2,26 @@
 
 🌐 I'm all about creating visually stunning, user-friendly interfaces, diving deep into HTML, CSS (Sass, Bootstrap, Tailwind CSS), JavaScript, React, React Native, TypeScript, and Next.js, not to mention a knack for Adobe Products to ensure design excellence. My self-taught journey is fueled by a passion for technological innovation, underscored by my diverse experiences in and out of the tech scene, which have honed my ability to think creatively and tackle technical challenges with a fresh perspective.
 
-<div style = "
-display: inline-block;
-line-height: 3rem;
+<div style="
+    display: inline-block;
+    line-height: 3rem;
 ">
     <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-    <img align="center" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img align="center" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align="center" alt="redux" src="https://img.shields.io/badge/Redux-purple?style=for-the-badge&logo=Redux&logoColor=white" />
+    <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img align="center" alt="react" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img align="center" alt="react-native" src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img align="center" alt="redux" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white" />
     <img align="center" alt="react-router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
     <img align="center" alt="nextjs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
     <img align="center" alt="github-pages" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub&logoColor=white" />
-    <img align="center" alt="adobe" src="https://img.shields.io/badge/Adobe%20Products-ED2224?style=for-the-badge&logo=Adobe&logoColor=white" />
-
+    <img align="center" alt="adobe" src="https://img.shields.io/badge/Adobe%20Products-FF0000?style=for-the-badge&logo=Adobe&logoColor=white" />
 </div><br/>
+
+
 
 🚀 Driven by the dream to make a significant impact through technology, I've embarked on front-end development, showcasing my technical prowess and project management skills across various projects. From websites to digital solutions, I'm all about merging technical know-how with creativity, underpinned by a commitment to continuous learning and staying abreast of the latest trends and best practices in the industry.
 
