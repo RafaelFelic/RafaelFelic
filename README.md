@@ -33,14 +33,9 @@
 🌟 Always keen to connect with fellow devs, surfers, and builders — feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelfelic/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-darkgreen?style=for-the-badge)](https://rafafportfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-darkgreen?style=for-the-badge)](https://rafaelfeliciano.vercel.app/)
 
-Some of my projects:<br>
 🏄 [Surf Link](https://surf-link.com.au) — surf photography marketplace (Next.js, Firebase, Stripe)
-
-https://github.com/RafaelFelic/jsaltylens
-
-https://github.com/RafaelFelic/portfolio
 
 <!---
 RafaelFelic/RafaelFelic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
