@@ -36,8 +36,3 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-darkgreen?style=for-the-badge)](https://rafaelfeliciano.vercel.app/)
 
 🏄 [Surf Link](https://surf-link.com.au) — surf photography marketplace (Next.js, Firebase, Stripe)
-
-<!---
-RafaelFelic/RafaelFelic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
