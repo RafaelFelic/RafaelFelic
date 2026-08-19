@@ -1,6 +1,6 @@
 👋 Hey there! I'm Rafael Feliciano — a Web Developer based on the Sunshine Coast, Australia, with a journey that's taken me from an early childhood fascination with technology through graphic design, video editing, and entrepreneurship, all the way to building websites and web apps for a living.
 
-💼 I currently work as a Web Developer at [Smartyr Marketing](https://smartyr.au), where I build and maintain client websites using SvelteKit, TypeScript, and Tailwind CSS, deployed on Cloudflare Pages and Workers with CI/CD via GitHub Actions. Day to day I also work with PostHog for analytics, platformOS, and everything in between — from performance tuning and SEO to shipping new features across a portfolio of client sites.
+💼 I currently work as a Web Developer at [Smartyr Marketing](https://smartyr.marketing), where I build and maintain client websites using SvelteKit, TypeScript, and Tailwind CSS, deployed on Cloudflare Pages and Workers with CI/CD via GitHub Actions. Day to day I also work with PostHog for analytics, platformOS, and everything in between — from performance tuning and SEO to shipping new features across a portfolio of client sites.
 
 🌐 My toolkit spans the modern front-end and beyond: HTML, CSS (Sass, Tailwind CSS), JavaScript, TypeScript, Svelte/SvelteKit, React, and Next.js — plus a growing full-stack side with Node.js, PostgreSQL, Drizzle ORM, and Docker. My design background (Adobe products included) means I care as much about how things look and feel as how they're built.
 
