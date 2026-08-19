@@ -1,6 +1,8 @@
-👋 Hey there! I'm Rafael Feliciano - an enthusiastic Front-End Developer, life-long learner, and tech innovator at heart, with a journey that's taken me from early childhood fascination with technology through graphic design, video editing, and entrepreneurship. Now settled in Australia, I've navigated various roles, sharpening my adaptability, communication, and rich problem-solving skills, always circling back to my tech love.
+👋 Hey there! I'm Rafael Feliciano — a Web Developer based on the Sunshine Coast, Australia, with a journey that's taken me from an early childhood fascination with technology through graphic design, video editing, and entrepreneurship, all the way to building websites and web apps for a living.
 
-🌐 I'm all about creating visually stunning, user-friendly interfaces, diving deep into HTML, CSS (Sass, Bootstrap, Tailwind CSS), JavaScript, React, React Native, TypeScript, and Next.js, not to mention a knack for Adobe Products to ensure design excellence. My self-taught journey is fueled by a passion for technological innovation, underscored by my diverse experiences in and out of the tech scene, which have honed my ability to think creatively and tackle technical challenges with a fresh perspective.
+💼 I currently work as a Web Developer at [Smartyr Marketing](https://smartyr.au), where I build and maintain client websites using SvelteKit, TypeScript, and Tailwind CSS, deployed on Cloudflare Pages and Workers with CI/CD via GitHub Actions. Day to day I also work with PostHog for analytics, platformOS, and everything in between — from performance tuning and SEO to shipping new features across a portfolio of client sites.
+
+🌐 My toolkit spans the modern front-end and beyond: HTML, CSS (Sass, Tailwind CSS), JavaScript, TypeScript, Svelte/SvelteKit, React, and Next.js — plus a growing full-stack side with Node.js, PostgreSQL, Drizzle ORM, and Docker. My design background (Adobe products included) means I care as much about how things look and feel as how they're built.
 
 <div style="
     display: inline-block;
@@ -12,36 +14,33 @@
     <img align="center" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img align="center" alt="svelte" src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
+    <img align="center" alt="sveltekit" src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
     <img align="center" alt="react" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    <img align="center" alt="react-native" src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    <img align="center" alt="redux" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white" />
-    <img align="center" alt="react-router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
     <img align="center" alt="nextjs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-    <img align="center" alt="github-pages" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub&logoColor=white" />
+    <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img align="center" alt="cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+    <img align="center" alt="firebase" src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" />
+    <img align="center" alt="github-actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
     <img align="center" alt="adobe" src="https://img.shields.io/badge/Adobe%20Products-FF0000?style=for-the-badge&logo=Adobe&logoColor=white" />
 </div><br/>
 
+🚀 Outside of work, I'm building [Surf Link](https://surf-link.com.au) — a surf photography marketplace connecting photographers and surfers, built with Next.js, Firebase, and Stripe. From product design and UX to payments, auth, and video processing, it's been a full-stack, end-to-end product journey I'm really proud of.
 
+🏄 Away from the keyboard, you'll find me surfing the waves of the Sunshine Coast, exploring new horizons, or jamming on my guitar — the same creative energy that fuels how I approach problem-solving in tech.
 
-🚀 Driven by the dream to make a significant impact through technology, I've embarked on front-end development, showcasing my technical prowess and project management skills across various projects. From websites to digital solutions, I'm all about merging technical know-how with creativity, underpinned by a commitment to continuous learning and staying abreast of the latest trends and best practices in the industry.
-
-🏄 Outside of coding, you'll find me surfing the waves, exploring new horizons, or jamming my guitar - activities that fuel my creative problem-solving abilities, crucial in the tech world. Freelancing and ever on the lookout for dynamic teams or projects to contribute to, I'm eager to bring my diverse skills, insights, and enthusiastic approach to an entry-level development role.
-
-🌟 If you're seeking a developer who blends technical expertise with a unique creative edge, let's connect! I'm on a mission to help others through technology, eager to contribute meaningfully and push boundaries in the tech industry.
+🌟 Always keen to connect with fellow devs, surfers, and builders — feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelfelic/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-darkgreen?style=for-the-badge)](https://rafafportfolio.vercel.app)
 
 Some of my projects:<br>
+🏄 [Surf Link](https://surf-link.com.au) — surf photography marketplace (Next.js, Firebase, Stripe)
+
 https://github.com/RafaelFelic/jsaltylens
 
-https://github.com/RafaelFelic/planner
-
-https://github.com/RafaelFelic/pokemonGame
-
 https://github.com/RafaelFelic/portfolio
-
-https://github.com/RafaelFelic/tictactoe
 
 <!---
 RafaelFelic/RafaelFelic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
